@@ -17,6 +17,6 @@ The coefficient of the TV advertising variable is positive, which indicates that
 
 CONCLUSION:-
 The conclusion we get after predicting is that there is a positive linear relationship between TV advertising and sales. This means that as the amount of TV advertising increases, sales tend to increase as well. The R-squared value of 0.682 indicates that 68.2% of the variation in sales can be explained by the amount of TV advertising.
-Overall, the programming results suggest that TV advertising is a significant factor that can be used to predict sales. However, it is important to note that other factors, such as the price of the product, the competition, and the economic climate, can also affect sales.
+Overall, the prediction results suggest that TV advertising is a significant factor that can be used to predict sales. However, it is important to note that other factors, such as the price of the product, the competition, and the economic climate, can also affect sales.
 
 
